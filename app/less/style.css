@@ -1,0 +1,37 @@
+p {
+  background: #fff;
+  color: #1A237E;
+  padding: 15px;
+}
+ul {
+  background-color: #fff;
+}
+li {
+  color: #1A237E;
+}
+.banner {
+  font-weight: bold;
+  line-height: 40px;
+}
+body {
+  background: url("../img/white-sand.png");
+}
+.widget {
+  color: #0ee;
+  background-color: #999;
+}
+.small-circle {
+  width: 100px;
+  background: #fff;
+  width: 200px;
+}
+nav ul {
+  background: #fff;
+}
+.inline,
+nav ul {
+  color: #1A237E;
+}
+.class {
+  color: black;
+}
