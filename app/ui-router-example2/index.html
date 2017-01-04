@@ -1,0 +1,23 @@
+<html ng-app="routerApp">
+<head>
+	<meta charset="utf-8">
+
+	<!-- CSS -->
+	<!--<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/darkly/bootstrap.min.css">-->
+	<!--<link rel="stylesheet" href="style.css">-->
+
+	<!-- JS -->
+	<!-- load angular, nganimate, and ui-router -->
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.10/angular-ui-router.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular-animate.min.js"></script>
+	<script src="app.js"></script>
+
+</head>
+
+<!-- apply our angular app -->
+<body ng-controller="MainCtrl">
+  <a ui-sref="contacts.list">Link to contacts</a>
+	<div ui-view></div>
+</body>
+</html>
