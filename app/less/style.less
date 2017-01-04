@@ -1,0 +1,72 @@
+@background-color: #fff;
+@text-color: #1A237E;
+
+p{
+  background: @background-color;
+  color: @text-color;
+  padding: 15px;
+}
+
+ul{
+  background-color: @background-color;
+}
+
+li{
+  color: @text-color;
+}
+
+@link-color: #428bca;
+@link-color-hover: darken(@link-color, 10%);
+
+@my-selector: banner;
+.@{my-selector} {
+  font-weight: bold;
+  line-height: 40px;
+}
+
+@images: '../img';
+body{
+  background: url("@{images}/white-sand.png");
+}
+
+@property: color;
+.widget{
+  @{property}: #0ee;
+  background-@{property}: #999;
+}
+
+.circle(@width: 150px){
+  background: @background-color;
+  width: @width;
+}
+
+.small-circle{
+  width: 100px;
+  .circle(200px);
+}
+
+//-----------------extend----------------------
+nav ul{
+  &:extend(.inline);
+  background: @background-color;
+}
+
+.inline{
+  color: @text-color;
+}
+
+@mode: huge;
+
+#my-library when (@mode=huge){
+  .my-mixin(){
+    color: black;
+  }
+}
+
+.class{
+  #my-library.my-mixin;
+}
+
+
+
+
