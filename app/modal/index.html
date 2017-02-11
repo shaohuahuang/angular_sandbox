@@ -1,0 +1,21 @@
+<!doctype html>
+<html ng-app="app">
+<head>
+    <link rel="shortcut icon" href="#" />
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-animate.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-sanitize.js"></script>
+    <script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-2.4.0.js"></script>
+    <script src="main.js"></script>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body ng-controller="mainCtrl">
+    <ul>
+        <li ng-repeat="key in keys">
+            {{key}}
+            <button ng-click="onDeleteKey($index)">Delete Key</button>
+        </li>
+    </ul>
+</div>
+</body>
+</html>
