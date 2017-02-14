@@ -17,5 +17,20 @@
     <a ui-sref="home.contact">Contact Page</a>
     <div ui-view></div>
 
+    <div ng-view></div>
+    <script type="text/ng-template" id="addStudent.htm">
+        <h2> Add Student</h2>
+        {{message}}
+    </script>
+
+    <div ng-controller="mainController">
+			<!--<p>{{arr1}}</p>-->
+			<!--<p>{{::arr2 | moreThan10}}</p>-->
+			<p>{{([10, 20, 4, 5])| moreThan10}}</p>
+
+			<button ng-click="updateArr1()">Update Arr1</button>
+			<button ng-click="updateArr2()">Update Arr2</button>
+			<button ng-click="updateArr3()">Update Arr3</button>
+    </div>
 </body>
 </html>
