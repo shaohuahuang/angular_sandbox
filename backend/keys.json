@@ -1,1 +1,273 @@
-[]
+{
+  "created_at": "Sat Feb 11 08:38:36 +0000 2017",
+  "id": 830335212399710200,
+  "id_str": "830335212399710208",
+  "text": "RT @MadameTussauds: #SPOTTED: #DonaldTrump dressed for downtime, but still having trouble locating that light switch... #FAKETRUMPNEWS http…",
+  "truncated": false,
+  "entities": {
+    "hashtags": [{
+      "text": "SPOTTED",
+      "indices": [20, 28]
+    }, {
+      "text": "DonaldTrump",
+      "indices": [30, 42]
+    }, {
+      "text": "FAKETRUMPNEWS",
+      "indices": [120, 134]
+    }],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "MadameTussauds",
+      "name": "Madame Tussauds",
+      "id": 122346489,
+      "id_str": "122346489",
+      "indices": [3, 18]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2158261646,
+    "id_str": "2158261646",
+    "name": "Bronwyn Labrum",
+    "screen_name": "BronwynLabrum",
+    "location": "Wellington, NZ",
+    "description": "Author of Real Modern: Everyday New Zealand in the 1950s and 1960s (#TePapaPress), finalist in the 2016 @theOckhams NZ Book Awards. Historian & culture vulture.",
+    "url": "https://t.co/wtTDIurbPE",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/wtTDIurbPE",
+          "expanded_url": "http://about.me/bronwyn_labrum",
+          "display_url": "about.me/bronwyn_labrum",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1814,
+    "friends_count": 2327,
+    "listed_count": 116,
+    "created_at": "Sun Oct 27 06:46:16 +0000 2013",
+    "favourites_count": 5403,
+    "utc_offset": 46800,
+    "time_zone": "Auckland",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 27942,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "D42828",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/478738131554824192/sWGSZty-.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/478738131554824192/sWGSZty-.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/653733666938425344/SRhy_l7D_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/653733666938425344/SRhy_l7D_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2158261646/1444697967",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "78C0A8",
+    "profile_text_color": "5E412F",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Feb 10 19:00:05 +0000 2017",
+    "id": 830129228658008000,
+    "id_str": "830129228658008065",
+    "text": "#SPOTTED: #DonaldTrump dressed for downtime, but still having trouble locating that light switch... #FAKETRUMPNEWS https://t.co/Ul3dssbjrM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [{
+        "text": "SPOTTED",
+        "indices": [0, 8]
+      }, {
+        "text": "DonaldTrump",
+        "indices": [10, 22]
+      }, {
+        "text": "FAKETRUMPNEWS",
+        "indices": [100, 114]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [{
+        "id": 830093841281617900,
+        "id_str": "830093841281617920",
+        "indices": [115, 138],
+        "media_url": "http://pbs.twimg.com/media/C4UV81vUkAAUhZj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/C4UV81vUkAAUhZj.jpg",
+        "url": "https://t.co/Ul3dssbjrM",
+        "display_url": "pic.twitter.com/Ul3dssbjrM",
+        "expanded_url": "https://twitter.com/MadameTussauds/status/830129228658008065/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1366,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }]
+    },
+    "extended_entities": {
+      "media": [{
+        "id": 830093841281617900,
+        "id_str": "830093841281617920",
+        "indices": [115, 138],
+        "media_url": "http://pbs.twimg.com/media/C4UV81vUkAAUhZj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/C4UV81vUkAAUhZj.jpg",
+        "url": "https://t.co/Ul3dssbjrM",
+        "display_url": "pic.twitter.com/Ul3dssbjrM",
+        "expanded_url": "https://twitter.com/MadameTussauds/status/830129228658008065/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1366,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 122346489,
+      "id_str": "122346489",
+      "name": "Madame Tussauds",
+      "screen_name": "MadameTussauds",
+      "location": "London, UK",
+      "description": "Established on Baker Street in 1836.\n\nFor customer service enquiries, please email guest.experience@madame-tussauds.com.",
+      "url": "http://t.co/IfZA8bjdXC",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/IfZA8bjdXC",
+            "expanded_url": "http://madametussauds.com/London",
+            "display_url": "madametussauds.com/London",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 54427,
+      "friends_count": 509,
+      "listed_count": 320,
+      "created_at": "Fri Mar 12 11:42:14 +0000 2010",
+      "favourites_count": 4950,
+      "utc_offset": 0,
+      "time_zone": "Casablanca",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 4675,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2071B",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435456097017556992/pIJ-_KQP.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435456097017556992/pIJ-_KQP.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/820982745790840832/DFbfDroE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/820982745790840832/DFbfDroE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/122346489/1482232550",
+      "profile_link_color": "B2071B",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F0F0F0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 52,
+    "favorite_count": 92,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 52,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+
+
+}
